@@ -23,3 +23,7 @@ The vision of CareSphere is to provide a 360‑degree view of personal care and 
 - **Database:** SQLite/MySQL/PostgreSQL
 - **Visualization:** Matplotlib / Plotly for charts and analytics
 - **Optional Integrations:** APIs for fitness devices or nutrition databases
+
+## Contributors
+
+- Bhoomika Choudhury & Disha Tyagi
