@@ -13,14 +13,13 @@ The vision of CareSphere is to provide a 360‑degree view of personal care and 
 - 💊 **Medication Reminder** – schedule doses, track adherence, and flag missed medications
 - 🌱 **Mental Wellness Journal** – record moods, activities, and analyze lifestyle correlations
 - 🏃 **Fitness Challenge Tracker** – join challenges, track streaks, and compete on leaderboards
-- 🤒 **Symptom Checker** – log symptoms with severity and get basic condition suggestions
 - 📑 **Reports & Insights** – generate personalized summaries and export health reports
 - 🔔 **Notifications & Alerts** – unified reminders for medication, goals, and challenges
 
 ## 🧩 Tech Stack
 
-- **Backend:** Python (Flask/Django optional for web expansion)
-- **Database:** SQLite/MySQL/PostgreSQL
+- **Backend:** Python (Flask)
+- **Database:** MySQL
 - **Visualization:** Matplotlib / Plotly for charts and analytics
 - **Optional Integrations:** APIs for fitness devices or nutrition databases
 
